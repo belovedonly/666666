@@ -8,4 +8,4 @@ int main(void)
 	printf("%#X\n",i);
 	return 0;1
 
-}
+}≥Û…µ±∆ 
